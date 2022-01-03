@@ -5795,11 +5795,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\GitHub\\Bridge351\\MusicStore\\MusicStore\\MusicStore.csproj",
+      "projectUniqueName": "D:\\Development\\GitHub\\TestBridge\\MusicStore\\MusicStore.csproj",
       "projectName": "MusicStore",
-      "projectPath": "D:\\Development\\GitHub\\Bridge351\\MusicStore\\MusicStore\\MusicStore.csproj",
+      "projectPath": "D:\\Development\\GitHub\\TestBridge\\MusicStore\\MusicStore.csproj",
       "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\GitHub\\Bridge351\\MusicStore\\MusicStore\\obj\\",
+      "outputPath": "D:\\Development\\GitHub\\TestBridge\\MusicStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
